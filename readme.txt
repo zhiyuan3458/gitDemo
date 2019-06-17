@@ -4,4 +4,6 @@ new 3rd line
 
 create a new branch called dev
 
-create a new branch is quuick and this branch`s name is
+create a new branch is quuick and this branch`s name is bug1.
+
+resolve the problem.
